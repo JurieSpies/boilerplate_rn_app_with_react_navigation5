@@ -1,4 +1,6 @@
-![download](https://user-images.githubusercontent.com/28508616/111373622-cdc60f80-86a4-11eb-8fb9-a1f3dc22ca73.png)
+![finger-2081169_960_720](https://user-images.githubusercontent.com/28508616/111374853-49748c00-86a6-11eb-96fa-5c13c7806945.jpeg)
+
+
 
 For new Projects React-Native with navigation
 
